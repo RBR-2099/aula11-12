@@ -6,4 +6,3 @@ function imprimirNome(nome) {
 imprimirNome ("Rodrigo")
 imprimirNome ("Vini")
 imprimirNome ("Alessandro")
-
